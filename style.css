@@ -1,0 +1,21 @@
+* {
+    color: white;
+    background-color: black;
+    font-size: 25px;
+}
+
+h1 {
+    background-color: darkblue;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 50px;
+}
+
+.one {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+h2 {
+    color: black;
+    background-color: lightblue;
+}
